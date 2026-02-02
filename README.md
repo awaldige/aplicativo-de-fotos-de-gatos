@@ -26,7 +26,7 @@ CatPhotoApp/
 
 🌐 Acesse o Projeto Online
 
-🔗https://awaldige.github.io/aplicativo-de-fotos-de-gat
+🔗(https://awaldige.github.io/aplicativo-de-fotos-de-gatos/)
 
 ## 🔧 Como Executar o Projeto
 
