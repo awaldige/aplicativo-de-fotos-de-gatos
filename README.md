@@ -24,6 +24,9 @@ O **CatPhotoApp** tem como objetivo praticar conceitos básicos de **HTML** e cr
 CatPhotoApp/
 └── index.html # Arquivo principal do projeto
 
+🌐 Acesse o Projeto Online
+
+🔗https://awaldige.github.io/aplicativo-de-fotos-de-gat
 
 ## 🔧 Como Executar o Projeto
 
