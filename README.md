@@ -1,43 +1,75 @@
-# 🐱 CatPhotoApp
+# 🐱 CatPhotoApp — Galeria de Fotos de Gatos
 
-Este projeto foi desenvolvido como parte do curso do **freeCodeCamp** e consiste em uma aplicação web simples para exibir fotos de gatos, listas de coisas que eles gostam e odeiam, além de um formulário interativo.
+Projeto desenvolvido como parte do currículo de **HTML do freeCodeCamp**, com o objetivo de praticar os fundamentos da construção de páginas web por meio de imagens, links, listas e formulários.
 
-## ✅ Sobre o Projeto
+O CatPhotoApp apresenta fotos de gatos, listas de coisas que eles gostam ou não gostam e um formulário para inserir informações sobre um gato.
 
-O **CatPhotoApp** tem como objetivo praticar conceitos básicos de **HTML** e criação de **formulários**, sendo um excelente exercício para iniciantes em desenvolvimento web.
+## 🌐 Demonstração Online
 
-## 🚀 Funcionalidades
+🔗 **[Acessar o CatPhotoApp](https://awaldige.github.io/aplicativo-de-fotos-de-gatos/)**
 
-- Exibição de imagens de gatos com links para mais fotos
-- Listas de coisas que os gatos **amam** e **odeiam**
-- Formulário interativo para cadastrar informações sobre um gato
-- Uso de elementos semânticos para melhor organização e acessibilidade
+## ✨ Funcionalidades
+
+- 🐱 **Fotos de gatos:** exibição de imagens com links para mais fotos.
+- ❤️ **Lista de preferências:** exemplos de coisas que os gatos gostam.
+- 🚫 **Lista de aversões:** exemplos de coisas que os gatos não gostam.
+- 📝 **Formulário:** campos para inserir informações sobre gatos.
+- 🔗 **Links externos:** navegação para conteúdos relacionados.
+- ♿ **HTML semântico:** utilização de elementos apropriados para organizar o conteúdo e favorecer a acessibilidade.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- Semântica Web
-- Formulários e elementos interativos
+- **HTML5** — estruturação do conteúdo.
+- **Elementos semânticos** — organização das seções da página.
+- **Formulários HTML** — campos de entrada e opções de seleção.
+- **Links e imagens** — apresentação de conteúdo visual e navegação.
 
-## 📂 Estrutura de Arquivos
+## 📂 Estrutura do Projeto
 
-CatPhotoApp/
-└── index.html # Arquivo principal do projeto
+```text
+aplicativo-de-fotos-de-gatos/
+├── index.html
+└── README.md
+```
 
-🌐 Acesse o Projeto Online
-
-🔗(https://awaldige.github.io/aplicativo-de-fotos-de-gatos/)
-
-## 🔧 Como Executar o Projeto
+## 🚀 Como Executar Localmente
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/seu-usuario/CatPhotoApp.git
-Acesse a pasta do projeto:
+   ```bash
+   git clone https://github.com/awaldige/aplicativo-de-fotos-de-gatos.git
+   ```
 
-cd CatPhotoApp
-Abra o arquivo index.html no navegador.
+2. Acesse a pasta do projeto:
 
-📜 Licença
-Este projeto é baseado em exercícios do freeCodeCamp e segue a filosofia de aprendizado livre e aberto.
+   ```bash
+   cd aplicativo-de-fotos-de-gatos
+   ```
+
+3. Abra o arquivo `index.html` no navegador.
+
+Como o projeto utiliza HTML, não é necessário instalar dependências para visualizar a página.
+
+## 🎯 Objetivos de Aprendizado
+
+Este exercício permite praticar:
+
+- Estrutura básica de documentos HTML.
+- Hierarquia de títulos e parágrafos.
+- Inserção de imagens e links.
+- Criação de listas ordenadas e não ordenadas.
+- Construção de formulários com diferentes tipos de campos.
+- Organização semântica do conteúdo.
+- Noções iniciais de acessibilidade web.
+
+## 👨‍💻 Autor
+
+**AW TECHNOLOGY**
+
+Desenvolvido por [awaldige](https://github.com/awaldige).
+
+Confira outros projetos no [perfil do GitHub](https://github.com/awaldige).
+
+---
+
+📚 Projeto educacional desenvolvido para praticar os fundamentos de HTML e desenvolvimento front-end.
